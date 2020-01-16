@@ -2,7 +2,7 @@
 
 1. Write down After each question, look back and ask yourself, “What did I get wrong about this problem at first?” Take the time to write down one or two things you got stuck on, and what helped you figure them out .
 
-2. Use an actual whiteboard
+2. Use an actual whiteboard or pen paper
 
 3.Set a timer and Get a feel for the time pressure of an actual interview. You should be able to finish a problem in 30–45 minutes, including debugging your code at the end.
 
